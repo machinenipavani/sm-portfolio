@@ -94,7 +94,7 @@ function NavBar() {
 
             {/* <Nav.Item>
               <Nav.Link
-                href="https://vercel.com/pavanis-projects-9427d63c"
+                href="https://vercel.com/pavani-projects-9427d63c"
                 target="_blank"
                 rel="noreferrer"
               >

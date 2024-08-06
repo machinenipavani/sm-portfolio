@@ -26,7 +26,7 @@ function Home2() {
   <br />
   <br />I am fluent in languages like
   <i>
-    <b className="purple"> Python and JavaScript</b>
+    <b className="purple"> Python,Java and React Js</b>
   </i>
   <br />
   <br />
@@ -36,7 +36,7 @@ function Home2() {
   </i>
   <br />
   <br />
-  Whenever possible, I apply my passion for developing products with <b className="purple">Node.js</b> and
+  Whenever possible, I apply my passion for developing products with
   <i>
     <b className="purple"> Modern JavaScript Libraries and Frameworks</b>
   </i>

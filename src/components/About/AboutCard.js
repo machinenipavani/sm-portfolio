@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Pavani Machineni </span>
             from <span className="purple"> khammam, India.</span>
             <br />
-            I am currently Intern at Aircom Solutions.
+            I am currently working at Aircom Solutions.
             <br />
             I have completed Graduation in Electronics And Communication Engineering at MIST Sathupally.
         
@@ -30,6 +30,11 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
           </ul>
+
+
+
+
+
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Research helps to Know real facts!"{" "}
