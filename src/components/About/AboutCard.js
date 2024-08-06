@@ -31,11 +31,6 @@ function AboutCard() {
             </li>
           </ul>
 
-
-
-
-
-
           <p style={{ color: "rgb(155 126 172)" }}>
             "Research helps to Know real facts!"{" "}
           </p>
