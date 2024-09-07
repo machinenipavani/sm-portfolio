@@ -11,8 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Pavani Machineni </span>
             from <span className="purple"> khammam, India.</span>
             <br />
-            I worked as a intern at Aircom Solutions.
-            <br />
+            I am working at Aircom Solutions.
+            
             I have completed Graduation in Electronics And Communication Engineering at MIST Sathupally.
         
             <br />
